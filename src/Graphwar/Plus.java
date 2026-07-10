@@ -1,7 +1,9 @@
 package Graphwar;
 
 public class Plus {
-    // 这个能否加入Global是硬编码的，编译的时候写死的
+    //不允许拿这个祸害不知情的绿玩
+    //只允许和朋友游玩时或对方同意时使用(或者打机器人)
+    //请阅读并同意以上要求才可启用
     public static final boolean canJoinGlobal = false;
 
     public static boolean SHOW_COORDINATE_SYSTEM = true;
